@@ -1,0 +1,7 @@
+.Container {
+    background-color: #F2E6D8;
+    width: 500px;
+    margin: 2rem auto;
+    padding: 15px;
+    border: dotted 3px #F28705;
+}
